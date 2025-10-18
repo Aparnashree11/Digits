@@ -50,7 +50,3 @@ Train a neural network on the **Digits Dataset** (handwritten digit classificati
 3. **Systematic exploration:** No missed configurations, eliminates human bias
 4. **Statistical robustness:** Mean, std, min, max across multiple runs
 5. **Handling different hyperparameters:** Elegant solution for momentum (SGD-only parameter)
-
-**Author:** [Your Name]  
-**Date:** October 2025  
-**Course:** [Your Course]
